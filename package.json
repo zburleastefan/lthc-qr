@@ -53,6 +53,7 @@
     "qrcode": "^1.5.4",
     "qrcode.react": "latest",
     "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "react-hook-form": "^7.54.1",
     "react-resizable-panels": "^2.1.7",
     "recharts": "2.15.0",
